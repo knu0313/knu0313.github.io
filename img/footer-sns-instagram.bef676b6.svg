@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 32 32">
+      <image width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB/klEQVRYhcWX4ZGbQAyFH54rgBLoIHRwTgUhFcQdhFRgSkgHoQM7FYQOwB2kA7gKvvxAxHvBNlr7uGiG8ZiV3tNKQtpNFCFAIemTpExSKim3pU7SIOm3pGOSJD9jcJdIM+AH0AMdUAJbIA90cntXmk5vNumj5JWBVTFgQGo2A7C/hzgFWuAIZNEAZ5zMMFr3BiycPVDdS3wBc4pGvqSYGvnurcgD7J05cTkSQdirtyYPOCqgvbV4XIs84DnONmnF0j9ScBEOZLNUAPWaob/gRAXU4YvrxfHasLA6uSa/rFsu4aTAEIJ2TnKvbB14HVBsJBWS6iUDSZVD52OEbi1pK6BxevyvlFZQmeX0lTjwtkDzpHGqDQ6PQ/mmcQJO3/Rn+43p+4OkVB5vpVkEUsbCnaS3SLgjMGFuIjy+JS/3Gm4knVgaEnMpNRbviz07e9xinKcnTbmIk70kdD4RfVFc/qWp9hi7YLmkbd+tVxoHXgl8/9vdHAarNKLpT0wrbm7t3El+bsX24r8Po+m7zt6BfD6OA68O7+DA/EASLHZrpsI2eX3yBqnYrUB++1AaKObce6G4juk7lgcGqaXj8EhhWsEdDCv+mhZ4vo8BsA3szbaKJr4AVhtYC3wFnplfTp9trTXd2uN0EulMoXEKZhqHyQdbOmkcap2kJkkS9/3iD6aIXPhVR1eaAAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <rect id="instagram" width="32" height="32" fill="url(#pattern)"/>
+</svg>
